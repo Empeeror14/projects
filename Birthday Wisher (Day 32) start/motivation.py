@@ -3,11 +3,13 @@ import random
 import smtplib
 import pandas as pd
 import os
+from dotenv import load_dotenv
 
+load_dotenv()
 
+email = os.getenv("EMAIL")
+password = os.getenv("PASSWORD")
 
-email = "ikehobi@gmail.com"
-password = "adjt yxso cisu cukw"
 
 now =dt.datetime.now()
 today =now.weekday()
