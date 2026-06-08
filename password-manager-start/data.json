@@ -1,0 +1,18 @@
+{
+    "facebook": {
+        "email": "example@email.com",
+        "password": "VUKapQ3p&f$#5T"
+    },
+    "amazon": {
+        "email": "example@email.com",
+        "password": "H5RdJUPWAL#*$6"
+    },
+    "instagram": {
+        "email": "example@email.com",
+        "password": "Dm1a1s!+VHS#Wn5"
+    },
+    "twitter": {
+        "email": "example@email.com",
+        "password": "RI*Euv87EDK*$"
+    }
+}
